@@ -1,0 +1,2 @@
+
+            s.settimeout(self.timeout)
